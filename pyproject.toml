@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "task-maistro"
+version = "0.1.0"
+description = ""
+authors = ["Arunprakaash <prakaasharun50@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+langgraph = "^0.2.53"
+langchain-core = "^0.3.21"
+langchain-community = "^0.3.8"
+langchain-openai = "^0.2.10"
+trustcall = "^0.0.26"
+ipykernel = "^6.29.5"
+sounddevice = "^0.5.1"
+scipy = "^1.14.1"
+elevenlabs = "^1.13.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

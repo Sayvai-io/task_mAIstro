@@ -4,3 +4,8 @@ langchain-community
 langchain-openai
 trustcall
 ipython
+charset-normalizer
+ipykernel
+sounddevice
+scipy
+elevenlabs
